@@ -1,0 +1,50 @@
+
+
+/* flex {
+
+} */
+
+img {
+    height: 200px;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+.row1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: skyblue;
+    padding: 20px;
+
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: pink;
+    padding: 20px;
+    
+}
+
+.row3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+}
+
+
+div {
+    margin-bottom: 10px;
+}
